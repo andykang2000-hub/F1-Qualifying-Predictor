@@ -123,19 +123,6 @@ f1-qualifying-predictor/
 
 ---
 
-## Portfolio Summary
-
-This is **Project 5** — the final project of a 5-project F1 data science portfolio:
-
-| # | Project | Skills | Genuine Value-Add |
-|---|---------|--------|-------------------|
-| ✅ 1 | [Telemetry Analysis](https://github.com/YOUR_USERNAME/f1-telemetry-analysis) | FastF1, matplotlib | Public corner-by-corner breakdown |
-| ✅ 2 | [Circuit Dominance Map](https://github.com/YOUR_USERNAME/f1-dominance-map) | Geospatial, multi-driver | PER paradox — more track ≠ faster lap |
-| ✅ 3 | [Tire Compound Classifier](https://github.com/YOUR_USERNAME/f1-tyre-classifier) | ML, synthetic data | Rival stint life — what teams cannot see |
-| ✅ 4 | [Strategy Optimizer](https://github.com/YOUR_USERNAME/f1-strategy-optimizer) | Optimization, simulation | Undercut threat quantification |
-| ✅ 5 | Qualifying Predictor (this) | Regression, feature engineering | Automated Q3 final run decision |
-
----
 
 ## What Would Make This Production-Ready
 
