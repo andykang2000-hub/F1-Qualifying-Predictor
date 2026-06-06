@@ -14,13 +14,8 @@ This project predicts whether an F1 driver will improve on their next qualifying
 
 ## Critical Self-Evaluation
 
-**Is the cause-effect relationship right?**
-Yes — sector times and the gap to theoretical best genuinely *cause* lap time outcomes. A driver with 2 seconds of time still on the table will almost certainly improve on their next run. This is a valid causal chain, not a spurious correlation.
-
-**Is this meaningful? How is it different from what engineers already have?**
 Teams already have sector time data, but the "final run" decision is currently made through engineer judgement and informal heuristics. Our model quantifies this decision with a single number — improvement probability — derived from a consistent, explainable framework. The key insight (`GapToTheo` importance = 0.716) formalizes what experienced engineers know intuitively: how much time is left on the table is the dominant signal.
 
-**What is the genuine value-add?**
 The binary decision model (F1=0.936, Acc=96%) correctly identifies that top drivers (VER, PER, SAI, LEC) are unlikely to improve in Q3 — validating the real F1 practice of skipping the final run to save tyres. Backmarkers (SAR, PIA, ALB) are correctly identified as having significant room to improve. This is a quantitative tool for a decision currently made qualitatively.
 
 ---
