@@ -12,7 +12,7 @@ This project predicts whether an F1 driver will improve on their next qualifying
 
 ---
 
-## Critical Self-Evaluation
+## Evaluation
 
 Teams already have sector time data, but the "final run" decision is currently made through engineer judgement and informal heuristics. Our model quantifies this decision with a single number — improvement probability — derived from a consistent, explainable framework. The key insight (`GapToTheo` importance = 0.716) formalizes what experienced engineers know intuitively: how much time is left on the table is the dominant signal.
 
